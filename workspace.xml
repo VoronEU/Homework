@@ -10,8 +10,7 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -39,6 +38,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vladn\Documents\GitHub\Homework" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636103177399</updated>
-      <workItem from="1636103179924" duration="615000" />
+      <workItem from="1636103179924" duration="936000" />
     </task>
     <servers />
   </component>
@@ -66,5 +70,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="293" key="FileChooserDialogImpl" timestamp="1636103723916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="293" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1636103723916" />
+    <state x="657" y="463" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1636103727327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="657" y="463" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1636103727327" />
   </component>
 </project>
